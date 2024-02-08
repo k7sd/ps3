@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>CFW_HEN RSS Feed</title>
+    <link>https://k7sd.github.io/CFW_HEN/</link>
+    <description>RSS feed for CFW_HEN website</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2024 00:00:00 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Feb 2024 00:00:00 GMT</pubDate>
+
+    <item>
+      <title>Home Page</title>
+      <link>https://k7sd.github.io/CFW_HEN/</link>
+      <pubDate>Mon, 08 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>APPS CFW Page</title>
+      <link>https://k7sd.github.io/CFW_HEN/APPS%20CFW.html</link>
+      <pubDate>Mon, 08 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Library CFW Page</title>
+      <link>https://k7sd.github.io/CFW_HEN/Library%20CFW.html</link>
+      <pubDate>Mon, 08 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>UPDATE CFW Page</title>
+      <link>https://k7sd.github.io/CFW_HEN/UPDATE%20CFW.html</link>
+      <pubDate>Mon, 08 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
